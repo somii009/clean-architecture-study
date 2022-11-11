@@ -1,6 +1,6 @@
-package io.reflectoring.buckpal.application.port.out;
+package io.reflectoring.buckpal.account.application.port.out;
 
-import io.reflectoring.buckpal.domain.Account;
+import io.reflectoring.buckpal.account.domain.Account;
 
 public interface AccountLock {
 

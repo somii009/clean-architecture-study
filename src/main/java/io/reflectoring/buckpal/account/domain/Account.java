@@ -1,4 +1,4 @@
-package io.reflectoring.buckpal.domain;
+package io.reflectoring.buckpal.account.domain;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
